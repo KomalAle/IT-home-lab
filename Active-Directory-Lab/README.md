@@ -9,6 +9,9 @@ In this lab I configured Active Directory Domain Services on Windows Server 2016
 
 ## Tasks Completed
 - Installed Active Directory Domain Services role
+- Created a domain environment
 - Promoted server to Domain Controller
 - Created domain and organizational units
 - Created users and groups
+- Created Organizational Units for departments
+
